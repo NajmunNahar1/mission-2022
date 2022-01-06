@@ -55,3 +55,35 @@ section{
 .image{
     width:200px;
 }
+.illustrator-parent{
+    display:flex;
+    width:600%;
+    
+    box-shadow:2px 2px 2px solid;
+    margin:5px;
+    padding:10px;
+    
+   
+    
+  
+}
+#ill-1{
+    background-color: cyan;
+    width:50%;
+    padding:10px;
+    border-radius:5px;
+}
+#ill-2{
+    background-color: skyblue;
+    width:50%;
+    padding:10px;
+    border-radius:5px;
+}
+#ill-3{
+    background-color: blue;
+    width:50%;
+    padding:10px;
+    border-radius:5px;
+}
+
+}
