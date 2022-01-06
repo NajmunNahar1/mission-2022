@@ -60,30 +60,34 @@ section{
     width:600%;
     
     box-shadow:2px 2px 2px solid;
-    margin:5px;
+    margin:20px;
     padding:10px;
-    
+}
+
+#ill-1{
+    background-color: cyan;
+    width:30%;
+    padding:20px;
+    border-radius:10px;
+    margin:20px;
+}
+#ill-2{
+    background-color: pink;
+
+    width:30%;
+    padding:20px;
+    border-radius:10px;
+    margin:20px;
+}
+   
+#ill-3{
+    background-color: skyblue;
+
+    width:30%;
+    padding:20px;
+    border-radius:10px;
+    margin:20px;
+}
    
     
   
-}
-#ill-1{
-    background-color: cyan;
-    width:50%;
-    padding:10px;
-    border-radius:5px;
-}
-#ill-2{
-    background-color: skyblue;
-    width:50%;
-    padding:10px;
-    border-radius:5px;
-}
-#ill-3{
-    background-color: blue;
-    width:50%;
-    padding:10px;
-    border-radius:5px;
-}
-
-}
