@@ -22,8 +22,10 @@ body{
 }
 section{
     display:flex;
+    
 
 }
+
 
 .half-width{
     width:50%;
@@ -36,4 +38,12 @@ section{
 
 .mission{
     text-align: center;
+    
+}
+
+.sec-flex{
+    display:flex
+}
+.closer{
+    padding-bottom: 1%;
 }
